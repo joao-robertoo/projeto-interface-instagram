@@ -30,10 +30,10 @@ Visualize o projeto em ação, testando a tela de carregamento e a responsividad
 <br>
 <br>
 
-## ⚠️ Site Clone
-<img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-clone.gif?raw=true" width="400px" /> 
-## ✅ Site Oficial
-<img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-oficial.gif?raw=true" width="400px" />
+| ⚠️ Clone | ✅ Oficial |
+|---------|-----------|
+| <img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-clone.gif?raw=true" width="100%"> | <img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-oficial.gif?raw=true" width="100%"> |
+
 <br>
 
 📱 Responsividade e Layout
