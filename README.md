@@ -26,14 +26,13 @@ Este clone não é apenas estático; ele incorpora funcionalidades que simulam a
 
 Visualize o projeto em ação, testando a tela de carregamento e a responsividade, através do link da Live Demo:
 
-🔗 **[Clique aqui e acesse o projeto](https://joao-robertoo.github.io/projeto-pagina-instagram/)**
-<br>
-<br>
-
 | ⚠️ Clone | ✅ Oficial |
 |---------|-----------|
 | <img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-clone.gif?raw=true" width="100%"> | <img src="https://github.com/joao-robertoo/projeto-interface-instagram/blob/main/Imagem%20do%20README/instagram-oficial.gif?raw=true" width="100%"> |
 
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://interface-instagram-one.vercel.app/)
+
+<br>
 <br>
 
 📱 Responsividade e Layout
